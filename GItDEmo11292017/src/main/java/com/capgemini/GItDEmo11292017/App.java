@@ -13,6 +13,5 @@ public class App
     public static void greetings()
     {
     	System.out.println("Welcome Good morning");
-    	System.out.println("Hello have a good day");
     }
 }
